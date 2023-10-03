@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-image: url(https://png.pngtree.com/background/20230517/original/pngtree-stadium-full-of-fans-watching-a-football-game-picture-image_2635250.jpg);
+    background-image: url(../personal/img/estadio.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -61,4 +61,10 @@ li{
 a{
     text-decoration-line: none;
     color: white;
+}
+h2{
+    justify-content: center;
+    color: deeppink;
+    margin-right: 850px;
+    
 }
